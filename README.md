@@ -2,6 +2,11 @@
 
 ### Multimedia
 
+1. Tekst
+2. Grafika rastrowa i grafika wektorowa
+3. Animacje
+4. Dźwięk
+
 ### --------Tools-----
 https://www.photopea.com/
 
