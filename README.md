@@ -2,6 +2,18 @@
 
 ### Multimedia
 
-### Software
+### --------Tools-----
+https://www.photopea.com/
 
-### Repositories
+### --------Repositiories
+https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
+### --------On line editors
+https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ |
+### ---------Assets
+https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
+### ---------Stock Img
+https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
+
+
+### ---------License
+[MIT](https://choosealicense.com/licenses/mit/)
