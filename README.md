@@ -6,6 +6,7 @@
 2. Grafika rastrowa i grafika wektorowa
 3. Animacje
 4. Dźwięk
+5. Video
 
 ### --------Tools-----
 https://www.photopea.com/
