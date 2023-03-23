@@ -8,7 +8,7 @@ https://www.photopea.com/
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
 ### --------On line editors
-https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ |
+https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | https://www.online-python.com/ | https://www.w3schools.com/tryit/
 ### ---------Assets
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
 ### ---------Stock Img
