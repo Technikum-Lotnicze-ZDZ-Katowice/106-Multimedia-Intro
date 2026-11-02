@@ -1,4 +1,13 @@
-# 106-Multimedia-Intro
+# 105-Informatyka
+
+### Zagadnienia
+
+1. Kim był Alan Touring
+2. Co to jest ARPANET
+3. W którym roku pojawiły się sklepy internetowe (można pomylić się o 5 lat)
+5. Z jakich warstw składa się system komputerowy
+6. Co to jest system opreracyjny
+7. Jakie są zadania systemu operacyjnego
 
 ### Multimedia
 
