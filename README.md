@@ -44,7 +44,7 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 4.	Zastosuj stopkę z numeracją stron oraz nagłówek z Imieniem i nazwiskiem
 5.	Umieść w stopce ornament (strzałka)
 
-Exploatatorzy i służbiści
+#### Exploatatorzy i służbiści
 Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) port lotniczy
 1. Wyszukaj treść opisu w Internecie
 2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
@@ -55,6 +55,9 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 7. Dane o podróżnych i eksploatacji portu
 8. Drogi startowe w tabelce
 9. Osadź mapę (interaktywną)
+
+#### Reszta
+Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
 
 ### --------Tools-----
 https://www.photopea.com/
