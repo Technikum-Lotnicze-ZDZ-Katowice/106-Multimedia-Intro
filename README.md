@@ -11,7 +11,6 @@
 8. Napisz jakie znasz warstwy systemu operacyjnego
 9. Co to jest jądro systemu operacyjnego
 10. Co to jest powłoka systemowa (Shell)
-11. Jakie są zadania systemu operacyjnego
 12. Rozszyfruj skrót BIOS i napisz co to jest.
 13. Co to jest menedżer zadań i jak go uruchomić?
 14. Co to jest VR? (rozszyfruj skrót i opisz zagadnienie)
