@@ -48,6 +48,13 @@ Exploatatorzy i służbiści
 Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) port lotniczy
 1. Wyszukaj treść opisu w Internecie
 2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
+3. Pozyskaj dostępne informacje dotyczące portu lotniczego
+4. Tytuł jako kod ICAO
+5. Odnosnik do strony WWW portu lotniczego
+6. Współrzędne geograficzne (położenie portu)
+7. Dane o podróżnych i eksploatacji portu
+8. Drogi startowe w tabelce
+9. Osadź mapę (interaktywną)
 
 ### --------Tools-----
 https://www.photopea.com/
