@@ -1,6 +1,6 @@
 # 105-Informatyka
 
-### Zagadnienia
+### Zagadnienia do sprawdzianu
 
 1. Kim był Alan Touring
 2. Co to jest ARPANET
@@ -31,6 +31,23 @@
 3. Animacje
 4. Dźwięk
 5. Video
+
+
+### ZADANIA
+
+##### Awionicy
+
+Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) samolot.
+1.	Pobierz treść z Internetu albo zredaguj samodzielnie
+2.	Tytuł dokumentu to nagłówek z nazwą samolotu
+3.	Dodaj co najmniej trzy ilustracje, w tym jeden schemat pokazujący elementy samolotu
+4.	Zastosuj stopkę z numeracją stron oraz nagłówek z Imieniem i nazwiskiem
+5.	Umieść w stopce ornament (strzałka)
+
+Exploatatorzy i służbiści
+Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) port lotniczy
+1. Wyszukaj treść opisu w Internecie
+2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
 
 ### --------Tools-----
 https://www.photopea.com/
