@@ -2,7 +2,7 @@
 
 ### Zagadnienia do sprawdzianu
 
-1. Kim był Alan Touring
+1. Kim był Alan Turing
 2. Co to jest ARPANET
 3. W którym roku pojawiły się sklepy internetowe (można pomylić się o 5 lat)
 5. Z jakich warstw składa się system komputerowy
