@@ -45,16 +45,15 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 
 #### Exploatatorzy i służbiści
 Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) port lotniczy
-1. Wyszukaj treść opisu w Internecie
+1. Pozyskaj dostępne informacje dotyczące portu lotniczego
 2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
-3. Pozyskaj dostępne informacje dotyczące portu lotniczego
-4. Tytuł jako kod ICAO
-5. Odnosnik do strony WWW portu lotniczego
-6. Współrzędne geograficzne (położenie portu)
-7. Dane o podróżnych i eksploatacji portu
-8. Drogi startowe w tabelce
-9. Osadź mapę (interaktywną)
-10. Daodaj spis treści i spis ilustracji
+3. Tytuł jako kod ICAO
+4. Odnosnik do strony WWW portu lotniczego
+5. Współrzędne geograficzne (położenie portu)
+6. Dane o podróżnych i eksploatacji portu
+7. Drogi startowe w tabelce
+8. Osadź mapę (interaktywną)
+9. Daodaj spis treści i spis ilustracji
 
 #### Reszta
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
