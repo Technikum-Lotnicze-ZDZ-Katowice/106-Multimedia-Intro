@@ -55,6 +55,8 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 8. Osadź mapę (interaktywną)
 9. Daodaj spis treści i spis ilustracji
 
+https://zdz-my.sharepoint.com/:w:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IQA2li-jAhGJTro56HYvAlcoAXa_yfCCfiyuZpIEU5Y3O2s?e=moaKwk
+
 #### Reszta
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
 
