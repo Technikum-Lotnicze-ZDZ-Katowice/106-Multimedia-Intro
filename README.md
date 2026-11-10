@@ -57,7 +57,7 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 
 ------
 
-Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wybrane zagadnienie tak, aby zaciekawić nim inne osoby. Możesz wykorzystać materiały pobrane z Internetu. Dodaj ilustracje. Zatytułuj rozdziały, sformatuj je przy użyciu stylów nagłówkowych i ponumeruj. Na początku każdego rozdziału wstaw inicjał. Na parzystych stronach w nagłówku umieść informacje o autorze, natomiast w stopce – numerację stron. Na pierwszej stronie wstaw spis treści a na ostatniej spis ilustracji.
+Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wybrane zagadnienie tak, aby zaciekawić nim inne osoby. Możesz wykorzystać materiały pobrane z Internetu. Dodaj ilustracje. Zatytułuj rozdziały, sformatuj je przy użyciu stylów nagłówkowych i ponumeruj. Na początku każdego rozdziału wstaw inicjał. Na parzystych stronach w nagłówku umieść informacje o autorze, natomiast w stopce – numerację stron. Na pierwszej stronie wstaw spis treści a na ostatniej spis ilustracji. Usuń formatowanie wklejanych tekstów.
 
 https://zdz-my.sharepoint.com/:w:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IQA2li-jAhGJTro56HYvAlcoAXa_yfCCfiyuZpIEU5Y3O2s?e=moaKwk
 
