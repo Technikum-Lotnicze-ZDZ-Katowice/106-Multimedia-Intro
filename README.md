@@ -54,6 +54,7 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 7. Dane o podróżnych i eksploatacji portu
 8. Drogi startowe w tabelce
 9. Osadź mapę (interaktywną)
+10. Daodaj spis treści i spis ilustracji
 
 #### Reszta
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
