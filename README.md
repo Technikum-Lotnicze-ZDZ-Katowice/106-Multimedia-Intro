@@ -55,6 +55,19 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 8. Osadź mapę (interaktywną)
 9. Daodaj spis treści i spis ilustracji
 
+####    1e
+1. Londyn - Heathrow - Alan
+2. Dubai - Łukasz
+3. Katowice - Viktor
+4. Atlanta - Filip U.
+5. JFKenedy - Tomek
+6. Dżerba - Filip G.
+7. Bydgoszcz - Maciek
+8. Tokio - Kacper C.
+9. Los Angeles - Filip S.
+10. Warszawa - Kacper G.
+11. Southampton - Filip D.
+12. Amsterdam - Bartosz
 ------
 
 Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wybrane zagadnienie tak, aby zaciekawić nim inne osoby. Możesz wykorzystać materiały pobrane z Internetu. Dodaj ilustracje. Zatytułuj rozdziały, sformatuj je przy użyciu stylów nagłówkowych i ponumeruj. Na początku każdego rozdziału wstaw inicjał. Na parzystych stronach w nagłówku umieść informacje o autorze, natomiast w stopce – numerację stron. Na pierwszej stronie wstaw spis treści a na ostatniej spis ilustracji. Usuń formatowanie wklejanych tekstów. Podaj źródła z których korzystasz.  Zastosuj spójny styl i formatowanie całego dokumentu. Marginesy - normalne, Rozmiar czcionki - 12.
