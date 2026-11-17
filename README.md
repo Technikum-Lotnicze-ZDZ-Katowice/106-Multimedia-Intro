@@ -44,16 +44,17 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 5.	Umieść w stopce ornament (strzałka)
 
 #### Exploatatorzy i służbiści
-Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) port lotniczy
+Przygotuj dokument w Wordzie co najmniej pięciostronicowy opisujący wybrany (ulubiony) port lotniczy
 1. Pozyskaj dostępne informacje dotyczące portu lotniczego
 2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
-3. Tytuł jako kod ICAO
-4. Odnosnik do strony WWW portu lotniczego
-5. Współrzędne geograficzne (położenie portu)
-6. Dane o podróżnych i eksploatacji portu
-7. Drogi startowe w tabelce
-8. Osadź mapę (interaktywną)
-9. Daodaj spis treści i spis ilustracji
+3. Tytuł jako kod ICAO/IATA
+4. Dodaj zdjęcia
+5. Odnosnik do strony WWW portu lotniczego
+6. Współrzędne geograficzne (położenie portu)
+7. Dane o podróżnych i eksploatacji portu
+8. Drogi startowe w tabelce
+9. Osadź mapę (interaktywną lub obrazek)
+10. Dadaj spis treści i spis ilustracji
 
 ####    1e
 1. Londyn - Heathrow - Alan
