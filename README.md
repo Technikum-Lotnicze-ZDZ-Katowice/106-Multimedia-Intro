@@ -55,6 +55,7 @@ Przygotuj dokument w Wordzie co najmniej pięciostronicowy opisujący wybrany (u
 8. Drogi startowe w tabelce
 9. Osadź mapę (interaktywną lub obrazek)
 10. Dadaj spis treści i spis ilustracji
+11. Zachowaj spójne i jednolite formatowanie/układ
 
 ####    1e
 1. Londyn - Heathrow - Alan
