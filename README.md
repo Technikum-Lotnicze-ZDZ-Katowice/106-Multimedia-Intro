@@ -76,8 +76,12 @@ Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wy
 
 https://zdz-my.sharepoint.com/:w:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IQA2li-jAhGJTro56HYvAlcoAXa_yfCCfiyuZpIEU5Y3O2s?e=moaKwk
 
-#### Reszta
+#### ZADANIE 01
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
+
+
+#### ZADANIE 02
+Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. 
 
 ### --------Tools-----
 https://www.photopea.com/
