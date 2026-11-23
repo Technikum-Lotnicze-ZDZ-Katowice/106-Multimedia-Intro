@@ -81,7 +81,7 @@ Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
 
 
 #### ZADANIE 02
-Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. 
+Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. Dodaj obrys i wypełnij gradientem lub wzorem. 
 
 ### --------Tools-----
 https://www.photopea.com/
