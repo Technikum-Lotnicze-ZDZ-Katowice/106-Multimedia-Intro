@@ -85,6 +85,8 @@ Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wekt
 
 #### ZADANIE 03
 Przygotuj prezentację na temat dowolnego samolotu. Przygotuj co najmniej 5 slajdów odpowiadających rozdziałom (np: informacje ogólne, historia, dane techniczne, osiągi). Do każdego ze slajdów dodaj tytuł. Wszystkie teksty mają jednolite formatowanie (wielkość i styl bloków tekstowych). Dodaj co najmniej 3 zdjęcia oraz co najmniej 1 blueprint z wymiarami. Jeśli twój blueprint nie posiada wymiarów dodaj je samodzielnie.
+
+LINK DO FOLDERU ONEDRIVE:
 https://zdz-my.sharepoint.com/:w:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IQABTyqrs9EqTZdqQSdhOirSAXFs0nDv1gK18HIJqFpnr8s?e=6AJsLD
 
 ### --------Tools-----
