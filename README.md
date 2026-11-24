@@ -75,11 +75,8 @@ Przygotuj dokument w Wordzie co najmniej pięciostronicowy opisujący wybrany (u
 #### ZADANIE 03
 Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wybrane zagadnienie tak, aby zaciekawić nim inne osoby. Możesz wykorzystać materiały pobrane z Internetu. Dodaj ilustracje. Zatytułuj rozdziały, sformatuj je przy użyciu stylów nagłówkowych i ponumeruj. Na początku każdego rozdziału wstaw inicjał. Na parzystych stronach w nagłówku umieść informacje o autorze, natomiast w stopce – numerację stron. Na pierwszej stronie wstaw spis treści a na ostatniej spis ilustracji. Usuń formatowanie wklejanych tekstów. Podaj źródła z których korzystasz.  Zastosuj spójny styl i formatowanie całego dokumentu. Marginesy - normalne, Rozmiar czcionki - 12.
 
-https://zdz-my.sharepoint.com/:f:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IgAhiLeTEAykQIO1CTmw777YARhLPVvfLaK_xMqJS7oXdkw?e=7zxvWQ
-
 #### ZADANIE 04
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
-
 
 #### ZADANIE 05
 Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. Dodaj obrys i wypełnij gradientem lub wzorem. 
