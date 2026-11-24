@@ -83,6 +83,9 @@ Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
 #### ZADANIE 02
 Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. Dodaj obrys i wypełnij gradientem lub wzorem. 
 
+#### ZADANIE 03
+Przygotuj prezentację na temat dowolnego samolotu. Przygotuj co najmniej 5 slajdów odpowiadającym rozdziałom (np: informacje ogólne, historia, dane techniczne, osiągi). Do każdego ze slajdów dodaj tytuł. Wszystkie teksty mają jednolite formatowanie (wielkość i styl bloków tekstowych). Dodaj co najmniej 3 zdjęcia oraz co najmniej 1 blueprint z wymiarami. Jeśli twój blueprint nie posiada wymiarów dodaj je samodzielnie.
+
 ### --------Tools-----
 https://www.photopea.com/
 
