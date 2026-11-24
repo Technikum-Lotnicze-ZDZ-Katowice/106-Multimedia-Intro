@@ -34,7 +34,7 @@
 
 ### ZADANIA
 
-##### Awionicy
+##### ZADANIE 01
 
 Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulubiony) samolot.
 1.	Pobierz treść z Internetu albo zredaguj samodzielnie
@@ -43,7 +43,7 @@ Przygotuj dokument w Wordzie co najmniej trzystronicowy opisujący wybrany (ulub
 4.	Zastosuj stopkę z numeracją stron oraz nagłówek z Imieniem i nazwiskiem
 5.	Umieść w stopce ornament (strzałka)
 
-#### Exploatatorzy i służbiści
+#### ZADANIE 02
 Przygotuj dokument w Wordzie co najmniej pięciostronicowy opisujący wybrany (ulubiony) port lotniczy
 1. Pozyskaj dostępne informacje dotyczące portu lotniczego
 2. Tytuł dokumentu to nagłówek z kodem ICAO portu lotniczego
@@ -72,18 +72,19 @@ Przygotuj dokument w Wordzie co najmniej pięciostronicowy opisujący wybrany (u
 12. Amsterdam - Bartosz
 ------
 
+#### ZADANIE 03
 Utwórz pięciostronicowy dokument na temat, którym się interesujesz. Opisz wybrane zagadnienie tak, aby zaciekawić nim inne osoby. Możesz wykorzystać materiały pobrane z Internetu. Dodaj ilustracje. Zatytułuj rozdziały, sformatuj je przy użyciu stylów nagłówkowych i ponumeruj. Na początku każdego rozdziału wstaw inicjał. Na parzystych stronach w nagłówku umieść informacje o autorze, natomiast w stopce – numerację stron. Na pierwszej stronie wstaw spis treści a na ostatniej spis ilustracji. Usuń formatowanie wklejanych tekstów. Podaj źródła z których korzystasz.  Zastosuj spójny styl i formatowanie całego dokumentu. Marginesy - normalne, Rozmiar czcionki - 12.
 
 https://zdz-my.sharepoint.com/:f:/g/personal/pawel_szczeszek_katowice_zdzkatowice_edu_pl/IgAhiLeTEAykQIO1CTmw777YARhLPVvfLaK_xMqJS7oXdkw?e=7zxvWQ
 
-#### ZADANIE 01
+#### ZADANIE 04
 Przygotuj rebus z uzyciem ikon i kształtów oraz fragmentów tekstu
 
 
-#### ZADANIE 02
+#### ZADANIE 05
 Znajdź w Internecie zdjęcie zwierzęcia i obrysuj go z użyciem narzędzi wektorowych programu graficznego. Nie przekraczaj liczby kilkudziesięciu węzłów dla obrysu. Dodaj obrys i wypełnij gradientem lub wzorem. 
 
-#### ZADANIE 03
+#### ZADANIE 06
 Przygotuj prezentację na temat dowolnego samolotu. Przygotuj co najmniej 5 slajdów odpowiadających rozdziałom (np: informacje ogólne, historia, dane techniczne, osiągi). Do każdego ze slajdów dodaj tytuł. Wszystkie teksty mają jednolite formatowanie (wielkość i styl bloków tekstowych). Dodaj co najmniej 3 zdjęcia oraz co najmniej 1 blueprint z wymiarami. Jeśli twój blueprint nie posiada wymiarów dodaj je samodzielnie.
 
 LINK DO FOLDERU ONEDRIVE:
